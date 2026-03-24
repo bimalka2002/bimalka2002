@@ -20,7 +20,8 @@ Strong focus on performance, clean architecture, and real-world solutions.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,java,kotlin,nodejs,cpp,react,c,figma,linux,git,github,jenkins,cloudflare,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,java,kotlin,nodejs,cpp,react" />
+     <img src="https://skillicons.dev/icons?i==c,figma,linux,git,github,jenkins,cloudflare,kubernetes,docker" />
   </a>
 </p>
 
