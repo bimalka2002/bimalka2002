@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Bimalka Charuna
 
-<!--
-**bimalka2002/bimalka2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineer Undergraduate
 
-Here are some ideas to get you started:
+SE Undergraduate dedicated to mastering the craft of software development.  
+I specialize in backend development and have a keen interest in API design, data structures, and cloud services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 How to reach me
+- Email: bimalkacharuna0502@gmail.com
+
+---
+
+## 🚀 Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,java,kotlin,nodejs,cpp,react,c,figma,linux,git,github,jenkins,cloudflare,kubernetes,docker" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
