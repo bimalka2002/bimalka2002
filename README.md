@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Bimalka Charuna
 
-### 💻 Software Engineer Undergraduate
+### 💻 Software Engineer Undergraduate | Backend Developer
 
-SE Undergraduate dedicated to mastering the craft of software development.  
-I specialize in backend development and have a keen interest in API design, data structures, and cloud services.
+
+I design and build scalable backend systems, APIs, and cloud-powered applications.  
+Strong focus on performance, clean architecture, and real-world solutions.
+
+⚡ Turning ideas into production-ready systems  
+📊 Exploring system design, DevOps, and distributed architecture
 
 ---
 
@@ -24,8 +28,8 @@ I specialize in backend development and have a keen interest in API design, data
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=bimalka2002&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=bimalka2002&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka2002&layout=compact&theme=tokyonight)
