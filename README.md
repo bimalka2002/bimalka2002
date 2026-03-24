@@ -7,7 +7,7 @@ I design and build scalable backend systems, APIs, and cloud-powered application
 Strong focus on performance, clean architecture, and real-world solutions.
 
 ⚡ Turning ideas into production-ready systems  
-📊 Exploring system design, DevOps, and distributed architecture
+📚 Exploring system design, DevOps, and distributed architecture
 
 ---
 
